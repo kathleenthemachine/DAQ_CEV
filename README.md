@@ -1,4 +1,4 @@
-# 2019 DAQ Backend
+# Data Acquisition System 2019 - Cornell Electric Vehicles
 
 designed by KathRen (Kathleen and Lauren)
 
